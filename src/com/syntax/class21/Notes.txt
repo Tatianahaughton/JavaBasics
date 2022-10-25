@@ -1,0 +1,7 @@
+Overriding-overriding parent method in child classes.
+The access level cant be more restrictive than the overridden method.
+Can't override private/static methods/fields.
+Constructors cant be overridden.
+Static method cannot be overridden,but we can re-declare it. Will behave differently depending on the object/method  using it.
+
+
