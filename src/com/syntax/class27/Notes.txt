@@ -1,0 +1,6 @@
+
+interview question:
+what is a toString method?
+It is used to print instance fields of a class when we try to print the object of a class.
+Println method internally calls this method.This method is inherited from Object class.All
+the classes we create in java, automatically inherited from Object class.

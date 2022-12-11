@@ -1,6 +1,7 @@
 package com.syntax.class22;
 
-public class WebDriverTester {
+public class
+WebDriverTester {
     public static void main(String[] args) {
 
    /*     Safari safari=new Safari();

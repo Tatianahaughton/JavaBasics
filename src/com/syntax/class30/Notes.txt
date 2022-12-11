@@ -1,0 +1,5 @@
+Creating frameworks
+Store data:
+For each row, create a header as keys and values for column OR Create a class with the fields from the file(rows)
+ then, create objects and the objects in a list.
+

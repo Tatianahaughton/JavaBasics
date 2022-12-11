@@ -1,0 +1,18 @@
+For interview:
+if else conditions
+loops
+arrays/ arraylist and maps
+string class
+collections
+Maps
+OOPS
+File Handling
+for frameworks
+how classes work:
+how to create a class
+how to declare
+how to use the methods
+Types of variables: static, instance
+
+Inheritance:
+
